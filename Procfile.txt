@@ -1,1 +1,1 @@
-Procfile
+web: python Flask7.py
